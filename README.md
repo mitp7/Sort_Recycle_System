@@ -14,8 +14,8 @@
 
 ### The challenge
 
-- Develop a system that can efficiently sort recyclables and transfer them to corresponding bins. Using Python create a program that can control robotic devices by connecting to a raspberry py and using a remote environment (Quanser Labs).
-- Use the Q-arm and the Q-bot to transfer the containers in their appropiate bins.
+- Develop a system that can efficiently sort recyclables and transfer them to corresponding bins. Using Python create a program that can control robotic devices by connecting to a Raspberry Pi and using a remote environment (Quanser Labs).
+- Use the Q-Arm and the Q-Bot to transfer the containers in their appropiate bins.
 
 ### Screenshot
 
