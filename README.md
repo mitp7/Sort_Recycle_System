@@ -25,9 +25,7 @@
 ![Pic-2](./images/project-pic-2.PNG)
 #### Q-Arm Loads the Containers Being Dropped at the Same Bin
 ![Pic-3](./images/project-pic-3.PNG)
-#### Q-Bot Transfers the Container to its Appropiate Bin Using an Ultrasonic Sensor
-![Pic-4](./images/project-pic-4.PNG)
-#### Q-Bot Engages the Hopper to Drop the Containers
+#### Q-Bot Transfers the Containers & Engages the Hopper to Drop the Containers
 ![Pic-5](./images/project-pic-5.PNG)
 
 
